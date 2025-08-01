@@ -1,0 +1,6 @@
+# Ignore the database file
+shopping_cart.db
+
+# Ignore compiled binaries (if any)
+*.exe
+shopping-cart-backend
