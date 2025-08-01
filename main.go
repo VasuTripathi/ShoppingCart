@@ -38,7 +38,7 @@ func main() {
 	}
 
 	// Start Server
-	log.Println("🚀 Server starting on port 8080")
+	log.Println(" Server starting on port 8080")
 	if err := router.Run(":8080"); err != nil {
 		log.Fatal("Failed to run server:", err)
 	}
